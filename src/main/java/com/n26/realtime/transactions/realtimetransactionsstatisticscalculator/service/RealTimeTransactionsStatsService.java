@@ -7,8 +7,6 @@ import com.n26.realtime.transactions.realtimetransactionsstatisticscalculator.se
 import com.n26.realtime.transactions.realtimetransactionsstatisticscalculator.service.task.MinTask;
 import com.n26.realtime.transactions.realtimetransactionsstatisticscalculator.service.task.SumTask;
 import com.n26.realtime.transactions.realtimetransactionsstatisticscalculator.service.task.TaskResults;
-import java.time.ZoneOffset;
-import java.time.ZonedDateTime;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collection;
@@ -136,4 +134,4 @@ public class RealTimeTransactionsStatsService {
 
   }
 
-}ذ
+}
