@@ -12,5 +12,4 @@ public class RealtimeTransactionsStatisticsCalculatorApplicationTests {
 	@Test
 	public void contextLoads() {
 	}
-
 }
