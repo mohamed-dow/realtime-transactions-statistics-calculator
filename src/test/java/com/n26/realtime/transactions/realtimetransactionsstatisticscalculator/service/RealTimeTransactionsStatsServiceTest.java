@@ -1,5 +1,7 @@
 package com.n26.realtime.transactions.realtimetransactionsstatisticscalculator.service;
 
+import static org.testng.AssertJUnit.assertEquals;
+
 import com.n26.realtime.transactions.realtimetransactionsstatisticscalculator.domain.RequestEvent;
 import com.n26.realtime.transactions.realtimetransactionsstatisticscalculator.domain.ResponseEvent;
 import java.time.Instant;
